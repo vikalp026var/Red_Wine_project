@@ -66,7 +66,11 @@ To run the project, follow these steps:
 ### Steps for Deployment
 
 1. Create an ECR repository to store the Docker image.
+<<<<<<< HEAD
    - **Note**: Save the URI: 654654584423.dkr.ecr.us-east-1.amazonaws.com/mlproject
+=======
+   - **Note**: Save the URI (e.g., `136566696263.dkr.ecr.us-east-1.amazonaws.com/mlproject`).
+>>>>>>> 55ea5b2aed3847eddd2f4d4ec4ad89eb7846d0f0
 2. Create an EC2 instance (preferably Ubuntu).
 3. Install Docker on the EC2 instance:
 
